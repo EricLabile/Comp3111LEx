@@ -13,4 +13,6 @@ public class myLibrary {
         if (n <= 1) return 1;
         return n * factorial(n - 1);
     }
+
+    public static int square(int n) { return n * n; }
 }
