@@ -3,7 +3,6 @@ package Lab1;
 public class mainApp1 {
     public static void main(String[] args) {
         System.out.println("Lab1 Demo Program");
-        System.out.println("2^5 = " + myLibrary.power(2, 5));
-        System.out.println("5! = " + myLibrary.factorial(5));
+        System.out.println("Hello COMP3111");
     }
 }
